@@ -1,0 +1,94 @@
+body {
+  background-color: #FFFFFF;
+  text-align: center;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #71D5D8;
+  border-width: 5px;
+  width: 15%;
+}
+
+h1 {
+  color: #104660;
+  font-family: 'Lobster', Georgia, Times, serif;
+  font-size: 70px;
+  line-height: 5px;
+}
+
+h3 {
+  color: #104660;
+  font-family: 'Lobster', Georgia, Times, serif;
+  font-size: 25px;
+  line-height: 5px;
+}
+
+p, input, textarea {
+  color: #104660;
+  font-family: 'Cabin', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+}
+
+table {
+  color: #104660;
+  border-spacing: 30px 8px;
+  font-family: 'Cabin', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+a {
+  color: #104660;
+  font-family: 'Cabin', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  padding: 0px 10px;
+  text-decoration: none;
+}
+
+ul, ol {
+  color: #104660;
+  font-family: 'Cabin', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  display: inline-block;
+  text-align:left;
+  margin-top: 0px;
+}
+
+input, textarea {
+  background-color: #F0F0F8;
+  border: none;
+  border-radius: 5px;
+  margin: 5px 5px;
+  height: 20px
+  padding: 0px 10px;
+}
+
+textarea {
+  height: 100px
+}
+
+.hobbies-table {
+  height: 125px;
+  padding: 0px 5px;
+}
+
+.hobbies-text {
+  text-align: center;
+  margin-top: 0px;
+}
+
+
+
+/* This is a single-line comment */
+
+/* To Do
+-Font
+-Color
+-Center
+-Links
+-Bio
+-Text
+ */
